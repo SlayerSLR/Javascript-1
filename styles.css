@@ -1,0 +1,31 @@
+
+.message {
+    
+    padding: 400px 800px;
+    
+    color: white;    
+    font-size: 24px;;
+}
+
+* {
+    background-color: rgb(1, 1, 48);
+}
+
+button {
+    color: white;
+    width: 100px;
+    height: auto;
+    
+}
+
+input {
+    color: white;
+    font-size: 20px;
+    width: 300px;
+    height: auto;
+}
+
+#add7 {
+    padding-top: 10px;
+}
+
